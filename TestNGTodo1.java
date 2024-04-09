@@ -17,7 +17,7 @@ import org.testng.annotations.Test;
 public class TestNGTodo1 {
 
     private RemoteWebDriver driver;
-    private String Status = "failed";
+    private String Status = "passed";
 
     @BeforeMethod
     public void setup(Method m, ITestContext ctx) throws MalformedURLException {
