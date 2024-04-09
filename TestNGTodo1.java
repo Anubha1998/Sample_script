@@ -68,7 +68,6 @@ public class TestNGTodo1 {
         Thread.sleep(150);
 
         System.out.println("TestFinished");
-        driver.quit();
 
     }
 
